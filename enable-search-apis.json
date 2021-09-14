@@ -1,0 +1,9 @@
+var viewerOptions = {
+  embedMode: "FULL_WINDOW",
+  defaultViewMode: "FIT_PAGE",
+  showDownloadPDF: false,
+  showPrintPDF: false,
+  showLeftHandPanel: true,
+  showAnnotationTools: false,
+  enableSearchAPIs: true
+};
